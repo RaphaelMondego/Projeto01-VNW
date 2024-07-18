@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(5, 5, 113);
+    color: white;
+    padding: 40px;
+}
+
+img{
+    padding-left: 450px;
+    padding-top: 15px;
+}
+
+p{
+    font-size: 1.2rem;
+    text-align: start;
+    padding-left: 10px;
+}
+
+h2{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-top: 15px;
+}
